@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/hasiniMV/DSA_Practice/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/hasiniMV/DSA_Practice/tree/master/0041-first-missing-positive) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/hasiniMV/DSA_Practice/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
