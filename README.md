@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/hasiniMV/DSA_Practice/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/hasiniMV/DSA_Practice/tree/master/0066-plus-one) |
 | [0287-find-the-duplicate-number](https://github.com/hasiniMV/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
+| [1472-design-browser-history](https://github.com/hasiniMV/DSA_Practice/tree/master/1472-design-browser-history) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1472-design-browser-history](https://github.com/hasiniMV/DSA_Practice/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/hasiniMV/DSA_Practice/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -49,4 +51,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/hasiniMV/DSA_Practice/tree/master/1603-design-parking-system) |
+## Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/hasiniMV/DSA_Practice/tree/master/1472-design-browser-history) |
+## Stack
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/hasiniMV/DSA_Practice/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/hasiniMV/DSA_Practice/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/hasiniMV/DSA_Practice/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
