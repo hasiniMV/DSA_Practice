@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/hasiniMV/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hasiniMV/DSA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/hasiniMV/DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/hasiniMV/DSA_Practice/tree/master/0168-excel-sheet-column-title) |
 | [1108-defanging-an-ip-address](https://github.com/hasiniMV/DSA_Practice/tree/master/1108-defanging-an-ip-address) |
 ## Dynamic Programming
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/hasiniMV/DSA_Practice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/hasiniMV/DSA_Practice/tree/master/0066-plus-one) |
+| [0168-excel-sheet-column-title](https://github.com/hasiniMV/DSA_Practice/tree/master/0168-excel-sheet-column-title) |
 | [1323-maximum-69-number](https://github.com/hasiniMV/DSA_Practice/tree/master/1323-maximum-69-number) |
 ## Array
 |  |
