@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/hasiniMV/DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/hasiniMV/DSA_Practice/tree/master/0168-excel-sheet-column-title) |
 | [0567-permutation-in-string](https://github.com/hasiniMV/DSA_Practice/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/hasiniMV/DSA_Practice/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/hasiniMV/DSA_Practice/tree/master/1108-defanging-an-ip-address) |
 ## Dynamic Programming
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/hasiniMV/DSA_Practice/tree/master/0041-first-missing-positive) |
 | [0567-permutation-in-string](https://github.com/hasiniMV/DSA_Practice/tree/master/0567-permutation-in-string) |
 | [0706-design-hashmap](https://github.com/hasiniMV/DSA_Practice/tree/master/0706-design-hashmap) |
+| [0771-jewels-and-stones](https://github.com/hasiniMV/DSA_Practice/tree/master/0771-jewels-and-stones) |
 ## Binary Search
 |  |
 | ------- |
