@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hasiniMV/DSA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/hasiniMV/DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/hasiniMV/DSA_Practice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/hasiniMV/DSA_Practice/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/hasiniMV/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/hasiniMV/DSA_Practice/tree/master/0567-permutation-in-string) |
 ## String
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/hasiniMV/DSA_Practice/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/hasiniMV/DSA_Practice/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/hasiniMV/DSA_Practice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/hasiniMV/DSA_Practice/tree/master/0202-happy-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hasiniMV/DSA_Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/hasiniMV/DSA_Practice/tree/master/1323-maximum-69-number) |
 ## Array
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/hasiniMV/DSA_Practice/tree/master/0041-first-missing-positive) |
+| [0202-happy-number](https://github.com/hasiniMV/DSA_Practice/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/hasiniMV/DSA_Practice/tree/master/0567-permutation-in-string) |
 | [0706-design-hashmap](https://github.com/hasiniMV/DSA_Practice/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/hasiniMV/DSA_Practice/tree/master/0771-jewels-and-stones) |
