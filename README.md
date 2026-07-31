@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/hasiniMV/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0706-design-hashmap](https://github.com/hasiniMV/DSA_Practice/tree/master/0706-design-hashmap) |
 | [1472-design-browser-history](https://github.com/hasiniMV/DSA_Practice/tree/master/1472-design-browser-history) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/hasiniMV/DSA_Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/hasiniMV/DSA_Practice/tree/master/0567-permutation-in-string) |
+## Sorting
+|  |
+| ------- |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/hasiniMV/DSA_Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 <!---LeetCode Topics End-->
