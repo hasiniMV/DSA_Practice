@@ -116,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/hasiniMV/DSA_Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/hasiniMV/DSA_Practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
