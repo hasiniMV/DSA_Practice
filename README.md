@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/hasiniMV/DSA_Practice/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/hasiniMV/DSA_Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/hasiniMV/DSA_Practice/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/hasiniMV/DSA_Practice/tree/master/0231-power-of-two) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hasiniMV/DSA_Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/hasiniMV/DSA_Practice/tree/master/1323-maximum-69-number) |
 ## Array
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/hasiniMV/DSA_Practice/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/hasiniMV/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/hasiniMV/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/hasiniMV/DSA_Practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
