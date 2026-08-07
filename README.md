@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/hasiniMV/DSA_Practice/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/hasiniMV/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/hasiniMV/DSA_Practice/tree/master/0567-permutation-in-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/hasiniMV/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/hasiniMV/DSA_Practice/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/hasiniMV/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0706-design-hashmap](https://github.com/hasiniMV/DSA_Practice/tree/master/0706-design-hashmap) |
+| [0977-squares-of-a-sorted-array](https://github.com/hasiniMV/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1472-design-browser-history](https://github.com/hasiniMV/DSA_Practice/tree/master/1472-design-browser-history) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/hasiniMV/DSA_Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Hash Table
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/hasiniMV/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/hasiniMV/DSA_Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Floyd's Cycle Finding Algorithm
 |  |
