@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/hasiniMV/DSA_Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/hasiniMV/DSA_Practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/hasiniMV/DSA_Practice/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/hasiniMV/DSA_Practice/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hasiniMV/DSA_Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/hasiniMV/DSA_Practice/tree/master/1323-maximum-69-number) |
 ## Array
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/hasiniMV/DSA_Practice/tree/master/0258-add-digits) |
 | [1603-design-parking-system](https://github.com/hasiniMV/DSA_Practice/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/hasiniMV/DSA_Practice/tree/master/0231-power-of-two) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/hasiniMV/DSA_Practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
