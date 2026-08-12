@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/hasiniMV/DSA_Practice/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/hasiniMV/DSA_Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/hasiniMV/DSA_Practice/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/hasiniMV/DSA_Practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/hasiniMV/DSA_Practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/hasiniMV/DSA_Practice/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hasiniMV/DSA_Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/hasiniMV/DSA_Practice/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/hasiniMV/DSA_Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/hasiniMV/DSA_Practice/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/hasiniMV/DSA_Practice/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/hasiniMV/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/hasiniMV/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0706-design-hashmap](https://github.com/hasiniMV/DSA_Practice/tree/master/0706-design-hashmap) |
@@ -145,5 +147,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/hasiniMV/DSA_Practice/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/hasiniMV/DSA_Practice/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hasiniMV/DSA_Practice/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hasiniMV/DSA_Practice/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hasiniMV/DSA_Practice/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hasiniMV/DSA_Practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
