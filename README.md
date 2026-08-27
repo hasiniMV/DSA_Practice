@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/hasiniMV/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1472-design-browser-history](https://github.com/hasiniMV/DSA_Practice/tree/master/1472-design-browser-history) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/hasiniMV/DSA_Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/hasiniMV/DSA_Practice/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/hasiniMV/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/hasiniMV/DSA_Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/hasiniMV/DSA_Practice/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
