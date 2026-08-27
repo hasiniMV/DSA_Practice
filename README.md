@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/hasiniMV/DSA_Practice/tree/master/1472-design-browser-history) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/hasiniMV/DSA_Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/hasiniMV/DSA_Practice/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2404-most-frequent-even-element](https://github.com/hasiniMV/DSA_Practice/tree/master/2404-most-frequent-even-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/hasiniMV/DSA_Practice/tree/master/0567-permutation-in-string) |
 | [0706-design-hashmap](https://github.com/hasiniMV/DSA_Practice/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/hasiniMV/DSA_Practice/tree/master/0771-jewels-and-stones) |
+| [2404-most-frequent-even-element](https://github.com/hasiniMV/DSA_Practice/tree/master/2404-most-frequent-even-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/hasiniMV/DSA_Practice/tree/master/1603-design-parking-system) |
+| [2404-most-frequent-even-element](https://github.com/hasiniMV/DSA_Practice/tree/master/2404-most-frequent-even-element) |
 ## Linked List
 |  |
 | ------- |
