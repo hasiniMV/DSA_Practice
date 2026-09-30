@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/hasiniMV/DSA_Practice/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/hasiniMV/DSA_Practice/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/hasiniMV/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 ## Design
@@ -187,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/hasiniMV/DSA_Practice/tree/master/1071-greatest-common-divisor-of-strings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/hasiniMV/DSA_Practice/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
