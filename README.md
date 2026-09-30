@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/hasiniMV/DSA_Practice/tree/master/0168-excel-sheet-column-title) |
 | [0567-permutation-in-string](https://github.com/hasiniMV/DSA_Practice/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/hasiniMV/DSA_Practice/tree/master/0771-jewels-and-stones) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/hasiniMV/DSA_Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/hasiniMV/DSA_Practice/tree/master/1108-defanging-an-ip-address) |
 ## Dynamic Programming
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/hasiniMV/DSA_Practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/hasiniMV/DSA_Practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/hasiniMV/DSA_Practice/tree/master/0258-add-digits) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/hasiniMV/DSA_Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hasiniMV/DSA_Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/hasiniMV/DSA_Practice/tree/master/1323-maximum-69-number) |
 ## Array
@@ -177,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/hasiniMV/DSA_Practice/tree/master/0766-toeplitz-matrix) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/hasiniMV/DSA_Practice/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/hasiniMV/DSA_Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
